@@ -1,0 +1,5 @@
+/bin/ls -al
+ls -a ; pwd ; ls
+pwd ; echo "Hello World"
+quit
+ls
